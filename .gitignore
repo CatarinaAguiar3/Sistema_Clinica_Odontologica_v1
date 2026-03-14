@@ -1,1 +1,14 @@
-.venv
+# Ambiente virtual
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Arquivos de ambiente
+.env
+
+# Banco de dados-
+db.mysql
+
+
