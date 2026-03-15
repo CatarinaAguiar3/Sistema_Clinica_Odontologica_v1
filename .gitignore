@@ -16,6 +16,9 @@ __pycache__/
 # Banco de dados-
 db.mysql
 
+# Pasta de anotações
+Anotacoes/
+
 Anotações.docx
 
 Rascunhos.md
